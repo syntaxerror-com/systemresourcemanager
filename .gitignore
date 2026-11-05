@@ -18,6 +18,14 @@ __pycache__/
 venv/
 env/
 *.pkl
+.pytest_cache/
+
+# Runtime output
+alerts.txt
+scheduler_actions.txt
+scheduler_state.json
+scheduler_log.csv
+check_log.csv
 
 # OS
 .DS_Store
